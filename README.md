@@ -2,5 +2,5 @@
 
 
 ## Check deployed version
-[nft explorer app](https://nft-explorer-0.vercel.app/)
+[NFTExplorerDapp](https://nft-explorer-0.vercel.app/)
 
