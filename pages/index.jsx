@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
-import {NFTCard} from "./components/nftCard"
-import { NftSearchBar } from "./components/NftSearchBar";
+import {NFTCard} from "../components/nftCard"
+import { NftSearchBar } from "../components/NftSearchBar";
 
 const Home = () => {
 
